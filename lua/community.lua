@@ -14,7 +14,8 @@ return {
   { import = "astrocommunity.bars-and-lines.feline-nvim" },
 
   -- workflow
-  -- { import = "astrocommunity.workflow.hardtime-nvim" },
+  { import = "astrocommunity.workflow.hardtime-nvim" },
+  { import = "astrocommunity.workflow.precognition-nvim" },
 
   -- recipes
   { import = "astrocommunity.recipes.astrolsp-no-insert-inlay-hints" },
